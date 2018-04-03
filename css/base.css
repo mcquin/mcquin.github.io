@@ -31,8 +31,12 @@ a {
   text-decoration: none;
 }
 
+b {
+  /* color: #14c7ea */
+}
+
 body {
-  color: #222;
+  color: #81858c;
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 1.5em;
   font-weight: 400;
@@ -57,8 +61,8 @@ h2 {
   font-weight: 350;
   letter-spacing: .25em;
   line-height: 48px;
-  margin-bottom: 0px;
-  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-top: 20px;
   opacity: .6;
   text-align: left;
 }
@@ -73,6 +77,8 @@ img {
   width: 512px;
 }
 
-p {
-  color: #81858c;
+ul {
+  display: inline;
+  list-style-type: none;
+  -webkit-padding-start: 0px;
 }
