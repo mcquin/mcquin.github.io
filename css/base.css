@@ -26,8 +26,8 @@
 .twelve.columns                 { width: 100%; }
 
 a {
-  color: #ff61fa;
-  opacity: .6;
+  color: #B59A49;
+  opacity: .8;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 h1 {
-  color: #14c7ea;
+  color: #6F926E;
   font-size: 2em;
   font-weight: 400;
   letter-spacing: .3em;
@@ -56,14 +56,14 @@ h1 {
 }
 
 h2 {
-  color: #14c7ea;
+  color: #6F926E;
   font-size: 1.5em;
   font-weight: 350;
   letter-spacing: .25em;
   line-height: 48px;
   margin-bottom: 10px;
   margin-top: 20px;
-  opacity: .6;
+  opacity: .8;
   text-align: left;
 }
 
